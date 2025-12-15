@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+    branches: [ master, main ]
+
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+    name: Markdown Linting
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Markdown linting
+        uses: nosborn/github-action-markdown-cli@v3.3.0
+        with:
+          files: .
+          config_file: .markdownlint.json

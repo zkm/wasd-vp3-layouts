@@ -17,13 +17,16 @@
    
 ## Introduction
 
-This document contains helpful hints and layout improvements for users of the popular [WASD VP3](https://www.wasdkeyboards.com/) mechanical keyboard. The layouts work with Linux, Windows, and macOS.
+This document contains helpful hints and layout improvements for users of the popular [WASD VP3](https://web.archive.org/web/20160501053959/http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-vp3-61-key-custom-mechanical-keyboard.html) mechanical keyboard. The layouts work with Linux, Windows, and macOS.
 
 > **Note:** Some of the programming instructions are inspired by the POK3R, but have been adapted for the WASD VP3.
 
-Source to buy one:
+> **Availability:** WASD Keyboards appears to be closed or out of business, so new VP3 boards are generally no longer available from the original store.
 
-- [WASD Keyboards](https://www.wasdkeyboards.com/wasd-vp3-61-key-doubleshot-pbt-black-slate-mechanical-keyboard.html)
+Where to buy one now (typically used or old stock):
+
+- [Drop: WASD VP3 61-Key Mechanical Keyboard](https://drop.com/buy/wasd-vp3-61-key-mechanical-keyboard)
+- [eBay search: WASD VP3 keyboard](https://www.ebay.com/sch/i.html?_nkw=wasd+vp3+keyboard)
 
 
 The following layers are used:
@@ -34,18 +37,18 @@ The following layers are used:
 
 ## Tips & Tricks
 
-- Toggle arrow-keys on `R_Shift`, `Fn`, `Pn`, and `R_Ctrl`: `L_Win + R_Alt + Space`
+- Toggle arrow keys on `R_Shift`, `Fn`, `Pn`, and `R_Ctrl`: `L_Win + R_Alt + Space`
 - Factory reset: Hold `L_Alt + R_Alt` keys for five seconds, until the LED under the spacebar stops flashing.
-- Reset selected layer only: `Fn + R` until LED under the spacebar stops flashing.
+- Reset selected layer only: `Fn + R` until the LED under the spacebar stops flashing.
 
 > [WASD VP3 Quick Reference Guide](docs/vp3_quick_reference_guide.pdf) for more details on resetting and programming.
 
 ## Programming Instructions
 
-When the keyboard is in programming mode, the second LED (right-hand side of the space bar) will light up. It starts blinking when you start programming a key and will turn off only when you exit programming mode.
+When the keyboard is in programming mode, the second LED (right-hand side of the spacebar) will light up. It starts blinking when you start programming a key and turns off only when you exit programming mode.
 
 - Default layer (`Fn+M`) cannot be programmed.
-- Enter programming mode: `Fn + R_Ctrl`, second LED under space bar lights up.
+- Enter programming mode: `Fn + R_Ctrl`, second LED under the spacebar lights up.
   - Press `key to program`, second LED under spacebar will now blink.
   - Enter `new content`, up to 32 characters.
   - Confirm with `Pn`, the second LED will stop blinking.
@@ -125,7 +128,7 @@ For better ergonomics while using the VI/VIM style HJKL as cursor keys, move the
 
 ## Sources
 
-The how-to for these mappings is from several resources:
+The how-to for these mappings comes from several resources:
 
 - [WASD VP3 Quick Reference Guide](docs/vp3_quick_reference_guide.pdf)
 - [r/mk: HowTo program pok3r](http://www.reddit.com/r/MechanicalKeyboards/comments/35uy60/guide_howto_program_your_pok3r_programming_layers/)

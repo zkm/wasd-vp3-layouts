@@ -20,7 +20,7 @@
 This document contains helpful hints and layout improvements for users of the popular [WASD VP3](https://web.archive.org/web/20160501053959/http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-vp3-61-key-custom-mechanical-keyboard.html) mechanical keyboard. The layouts work with Linux, Windows, and macOS.
 
 > **Note:** Some of the programming instructions are inspired by the POK3R, but have been adapted for the WASD VP3.
-
+>
 > **Availability:** WASD Keyboards appears to be closed or out of business, so new VP3 boards are generally no longer available from the original store.
 
 Where to buy one now (typically used or old stock):

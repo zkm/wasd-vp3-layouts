@@ -1,5 +1,14 @@
 # WASD VP3 Keyboard Layouts
 
+[![Markdown lint](https://github.com/zkm/wasd-vp3-layouts/actions/workflows/ci.yml/badge.svg)](https://github.com/zkm/wasd-vp3-layouts/actions/workflows/ci.yml)
+[![Deploy GitHub Pages](https://github.com/zkm/wasd-vp3-layouts/actions/workflows/pages.yml/badge.svg)](https://github.com/zkm/wasd-vp3-layouts/actions/workflows/pages.yml)
+[![website](https://img.shields.io/website?url=https%3A%2F%2Fzkm.github.io%2Fwasd-vp3-layouts%2F&label=website)](https://zkm.github.io/wasd-vp3-layouts/)
+[![License: CC-BY-SA-4.0](https://img.shields.io/badge/license-CC--BY--SA--4.0-blue)](LICENSE)
+
+![Windows layout](https://img.shields.io/badge/Windows-layout-0078D4)
+![macOS layout](https://img.shields.io/badge/macOS-layout-000000?logo=apple&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+
 ## Table of Contents
 
 <a href="https://www.wasdkeyboards.com/"><img align="right" src="img/wasd-vp3-review.png"
